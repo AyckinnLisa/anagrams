@@ -8,7 +8,7 @@ App to mix letters of a word
     <img
         src="https://github.com/AyckinnLisa/anagrams/blob/main/screenshot.png"
         alt="DEMO"
-        style="width:60%">
+        style="width:80%">
 </div>
 
 ---
